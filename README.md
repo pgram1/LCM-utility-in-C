@@ -1,2 +1,2 @@
-# LCM-utility-in-C-
-Utility that finds the least common multiple of n numbers.
+# LCM utility (in C)
+This utility calculates the least common multiple of an infinite (theoretically) amount of positive numbers (values up to 2^31-1)
